@@ -22,6 +22,3 @@ I love volleyball, history, computer and board strategy games.
 ![Git](https://img.shields.io/badge/git-%23d54839.svg?style=for-the-badge&logo=git&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kargobober&layout=compact&theme=vision-friendly-dark&title_color=1182c3)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📰 Extra info
-<img src="https://cataas.com/cat" width="300px" />
