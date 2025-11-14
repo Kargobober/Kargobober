@@ -24,4 +24,4 @@ I love volleyball, history, computer and board strategy games.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kargobober&layout=compact&theme=vision-friendly-dark&title_color=1182c3)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📰 Extra info
-![A Cats](https://cataas.com/cat?width=300)
+<img src="https://cataas.com/cat" width="300px" />
