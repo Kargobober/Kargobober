@@ -15,6 +15,7 @@ I love volleyball, history, computer and board strategy games.
 ![Redux Toolkit](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Storybook](https://img.shields.io/badge/storybook-%23fd4586.svg?style=for-the-badge&logo=storybook&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=rgb(23,178,125)&color=rgb(23,178,125))\
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white&color=rgb(34,117,184)&badgeColor=rgb(34,117,184))
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=slateblue&color=rgb(246,192,50)&badgeColor=rgb(246,192,50))
